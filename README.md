@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sorteram
-- 👀 I’m interested in Active Evolvable Matter
+- 👀 I’m interested in simulating the nature 
 - 🌱 I’m currently learning Non-equilibrium Statistical Physics and Applied Mathematics
 - 📫 How to reach me: https://www.linkedin.com/in/raghav-sharma-0
 
