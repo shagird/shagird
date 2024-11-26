@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @shagird
-- 👀 I’m interested in computationally simulating emergent phenomena in the nature
-<!-- - 🌱 I’m currently learning Statistical Physics and Applied Mathematics -->
-- 📫 How to reach me: raghav.sharma@umich.edu
+- 🧐 Currently, I’m trying to understand the physics of life through computation.
 
 <!---
 shagird/shagird is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
